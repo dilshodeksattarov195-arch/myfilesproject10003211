@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpercrocess",
+        "uuid": 29679273,
+        "checksum": "9obllv"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
